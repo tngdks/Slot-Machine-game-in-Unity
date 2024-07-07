@@ -1,0 +1,5 @@
+HI, This is Devendra.
+I have done this project to the best of abilities of now in Unity and C#.
+This game works partially.
+1.It spins just like a real slot machine.
+2.I was not able to fix the Point system in this game.
